@@ -3,6 +3,14 @@
 A real-time chat application built with **React, Node.js, Express, and Socket.io**.
 The application enables users to communicate instantly through room-based channels with live typing indicators.
 
+## 📸 Screenshots
+
+### ❤️ chat
+
+<img width="1917" height="973" alt="Screenshot 2026-09-05 200111" src="https://github.com/user-attachments/assets/4cc567d6-5d35-4288-86b6-de57e8400621" />
+---
+
+
 ## 🚀 Features
 
 * ⚡ Real-time bidirectional communication using Socket.io
